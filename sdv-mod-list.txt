@@ -1,0 +1,70 @@
+- Liara (SVE Mods Folder)
+
+[CP] Seasonal Outfits SVE
+[CP] Seasonal Villager Outfits
+AutoAttack
+Automate
+ChestsAnywhere
+CJBItemSpawner
+ConsoleCommands
+ContentPatcher
+CustomMusic
+CustomNPCExclusions
+CustomNPCFixes
+DataLayers
+DynamicNightTime
+FarmTypeManager
+FastAnimations
+Immersive Farm 2 Remastered
+JsonAssets
+LookupAnything
+NPCMapLocations
+PyTK
+SkipIntro
+SpaceCore
+Stardew Valley Expanded
+TMXLoader
+WinterGrass
+
+- Harold, Doge
+
+[CP] Better Artisan Goods
+[CP] Better Crops and Foraging
+[CP] Better Gems and Minerals
+[CP] Better Resources
+[CP] DaisyNiko's Earthy Recolour
+[CP] Elle's Seasonal Buildings
+[CP] Gwen's Medieval Craftables
+[CP] Seasonal Villager Outfits
+[CP] Stardew Foliage Redone  original
+[CP] Stardew Valley Dialogue Expansion
+AutoAttack
+Automate
+ChestsAnywhere
+CJBItemSpawner
+ConsoleCommands
+ContentPatcher
+DataLayers
+FastAnimations
+GenericModConfigMenu
+LookupAnything
+MobilePhone
+NoSoilDecayRedux
+NpcAdventure
+NPCMapLocations
+QuestFramework
+SaveBackup
+SkipIntro
+WindEffects
+
+- Multiplayer (Empty af vanilla folder)
+
+AutoAttack
+Automate
+ChestsAnywhere
+ConsoleCommands
+DataLayers
+FastAnimations
+LookupAnything
+SkipIntro
+
