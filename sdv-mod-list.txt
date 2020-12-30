@@ -1,9 +1,11 @@
 - Liara (SVE Mods Folder)
 
-[CP] Seasonal Outfits SVE
-[CP] Seasonal Villager Outfits
+[CP]\ Seasonal\ Outfits\ -\ SVE
+[CP]\ Seasonal\ Villager\ Outfits
 AutoAttack
 Automate
+BetterJukebox
+BetterRanching
 ChestsAnywhere
 CJBItemSpawner
 ConsoleCommands
@@ -13,17 +15,21 @@ CustomNPCExclusions
 CustomNPCFixes
 DataLayers
 DynamicNightTime
+ExpandedPreconditionsUtility
 FarmTypeManager
 FastAnimations
-Immersive Farm 2 Remastered
+Immersive\ Farm\ 2\ Remastered
 JsonAssets
 LookupAnything
-NPCMapLocations
+LunarDisturbances
+MobilePhone
+PonyWeightLossProgram
 PyTK
 SkipIntro
 SpaceCore
-Stardew Valley Expanded
+Stardew\ Valley\ Expanded
 TMXLoader
+TreeTransplant
 WinterGrass
 
 - Harold, Doge
@@ -36,7 +42,7 @@ WinterGrass
 [CP] Elle's Seasonal Buildings
 [CP] Gwen's Medieval Craftables
 [CP] Seasonal Villager Outfits
-[CP] Stardew Foliage Redone  original
+[CP] Stardew Foliage Redone original
 [CP] Stardew Valley Dialogue Expansion
 AutoAttack
 Automate
