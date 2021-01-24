@@ -1,36 +1,36 @@
 - Liara (SVE Mods Folder)
 
-[CP]\ Seasonal\ Outfits\ -\ SVE
-[CP]\ Seasonal\ Villager\ Outfits
-AutoAttack
-Automate
-BetterJukebox
-BetterRanching
-ChestsAnywhere
-CJBItemSpawner
-ConsoleCommands
-ContentPatcher
-CustomMusic
-CustomNPCExclusions
-CustomNPCFixes
-DataLayers
-DynamicNightTime
-ExpandedPreconditionsUtility
-FarmTypeManager
-FastAnimations
-Immersive\ Farm\ 2\ Remastered
-JsonAssets
-LookupAnything
-LunarDisturbances
-MobilePhone
-PonyWeightLossProgram
-PyTK
-SkipIntro
-SpaceCore
-Stardew\ Valley\ Expanded
-TMXLoader
-TreeTransplant
-WinterGrass
+'[CP] Seasonal Outfits - SVE'/
+'[CP] Seasonal Villager Outfits'/
+ AutoAttack/
+ Automate/
+ BetterJukebox/
+ BetterRanching/
+ ChestsAnywhere/
+ CJBItemSpawner/
+ ConsoleCommands/
+ ContentPatcher/
+ CustomMusic/
+ CustomNPCExclusions/
+ CustomNPCFixes/
+ DataLayers/
+ DynamicNightTime/
+ ExpandedPreconditionsUtility/
+ FarmTypeManager/
+ FastAnimations/
+'Immersive Farm 2 Remastered'/
+ JsonAssets/
+ LookupAnything/
+ LunarDisturbances/
+ MobilePhone/
+ PonyWeightLossProgram/
+ PyTK/
+ SkipIntro/
+ SpaceCore/
+'Stardew Valley Expanded'/
+ TMXLoader/
+ TreeTransplant/
+ WinterGrass/
 
 - Harold, Doge
 
